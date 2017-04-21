@@ -1,0 +1,8 @@
+[Activity]
+name = Xo Vnc Viewer
+bundle_id = org.laptop.VncViewer
+service_name = org.laptop.VncViewer
+icon = activity-vnc
+class = xovncviewer.XoVncViewer
+activity_version = 1
+show_launcher = yes

@@ -1,0 +1,11 @@
+setup.py
+dialog.builder
+xovncviewer.py
+pygtkvnc/rfb.py
+pygtkvnc/crippled_des.py
+pygtkvnc/image.py
+pygtkvnc/__init__.py
+pygtkvnc/vnc.py
+activity/activity.info
+activity/activity-vnc.svg
+COPYING
